@@ -3,7 +3,7 @@ import {Route,createBrowserRouter,createRoutesFromElements,RouterProvider,Link} 
 import Navbar from './components/Navbar';
 import Homepage from './pages/Homepage';
 import AddProduct from './pages/AddProduct';
-import Product from './pages/product';
+import Product from './pages/Product';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Registration from './pages/Registration';
